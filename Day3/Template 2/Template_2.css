@@ -1,0 +1,439 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#main {
+  height: 1265px;
+  width: 100%;
+  position: relative;
+}
+.box1 {
+  height: 40px;
+  width: 100%;
+  background-color: black;
+}
+.box1 .FBicon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+}
+.box1 .instaicon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+}
+.box1 .snapchaticon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+}
+.box1 .messageicon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+}
+.box1 .twittericon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+}
+.box1 .linkedinicon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+}
+.box1 .searchicon {
+  color: white;
+  font-size: 15px;
+  margin: 10px 15px 10px 20px;
+  padding-left: 75%;
+}
+.box2 {
+  height: 220px;
+  width: 100%;
+  background-color: rgb(247, 249, 252);
+}
+.box2 h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-family: "Oswald", sans-serif;
+}
+.box2 h3 {
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Oswald", sans-serif;
+}
+.box2 h3 span {
+  background-color: black;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.box3 {
+  width: 100%;
+  height: 1500px;
+  position: relative;
+}
+.box3 img {
+  position: absolute;
+  width: 100%;
+}
+#b1h2 {
+  position: absolute;
+  color: white;
+  padding-top: 300px;
+  padding-left: 30px;
+  font-size: 30px;
+  font-family: "Oswald", sans-serif;
+}
+#b1h1 {
+  position: absolute;
+  color: white;
+  padding-top: 350px;
+  padding-left: 30px;
+  font-size: 50px;
+  font-family: "Oswald", sans-serif;
+}
+#subscribe {
+  position: absolute;
+  color: black;
+  padding: 10px;
+  font-size: 20px;
+  top: 430px;
+  left: 30px;
+  font-family: "Oswald", sans-serif;
+}
+#main2 {
+  /* position: relative; */
+  width: auto;
+  height: auto;
+  display: flex;
+  background-color: #f1f1f1;
+  padding: 10px;
+  /* background-color: #F1F1F1; */
+}
+#left {
+  /* height: auto; */
+  height: auto;
+  width: 60%;
+  /* background-color: white; */
+  margin: 20px;
+  /* position: absolute; */
+  top: 50px;
+  margin-left: 50px;
+}
+.L1 {
+  /* height: auto; */
+  /* margin: 35px; */
+  /* position: absolute; */
+  /* margin-top: 50px;
+  margin-bottom: 40px; */
+  height: auto;
+  margin-top: 5px;
+  padding-top: 25px;
+  left: 50px;
+  background-color: white;
+}
+.b4h1 {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+}
+.b4h3 {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+.L1 .b4P span {
+  font-weight: 600;
+}
+#b4img {
+  height: 600px;
+  align-items: center;
+  margin: 20px;
+  width: 850px;
+}
+.b4P {
+  margin: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+.btn-div {
+  display: flex;
+  justify-content: space-between;
+}
+.btn1 {
+  font-size: 15px;
+  color: black;
+  background-color: white;
+  margin: 20px;
+  padding: 10px;
+}
+.btn2 {
+  /* margin-right: 20px;   */
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  display: flex;
+  /* height: 50px; */
+  margin: 20px;
+  padding: 10px;
+}
+
+.btn2 h1 {
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#phototext {
+  display: flex;
+  margin: 20px;
+  /* background-color: greenyellow; */
+}
+#photo {
+  height: 100px;
+  width: 90px;
+  padding-bottom: 20px;
+}
+#text {
+  left: 20px;
+  margin: 20px;
+  width: 70%;
+  /* background-color: #e96d6d; */
+}
+#text h2 {
+  font-family: "Oswald", sans-serif;
+}
+#text h4 {
+  font-family: "Open Sans", sans-serif;
+}
+#L2 {
+  height: auto;
+  /* height: 1200px; */
+  /* margin: 35px; */
+  /* position: absolute; */
+  margin-top: 50px;
+  padding-top: 25px;
+  left: 50px;
+  background-color: #637c8f;
+}
+#L3 {
+  height: auto;
+  /* height: 1200px; */
+  /* margin: 35px; */
+  /* position: absolute; */
+  margin-top: 50px;
+  padding-top: 25px;
+  left: 50px;
+  /* background-color: #7d638f; */
+}
+
+#right {
+  /* height: auto; */
+  height: 1200px;
+  width: 30%;
+  background-color: #edeee3;
+  margin: 20px;
+  /* position: absolute; */
+  top: 50px;
+  left: 50px;
+}
+#R1 {
+  height: auto;
+  width: 100%;
+  background-color: black;
+}
+#R1 img {
+  width: 100%;
+}
+#R12 {
+  margin: 10px;
+}
+
+#R12 h2 {
+  font-family: "Oswald", sans-serif;
+  margin: 10px 0 10px 0;
+  color: white;
+}
+#R12 p {
+  padding-top: 10px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+#R2 {
+  margin-top: 20px;
+  height: auto;
+  width: 100%;
+  /* background-color: white; */
+}
+.R21 {
+  display: flex;
+  margin: 1px;
+  background-color: white;
+}
+.R21:hover {
+  background-color: #cdcdcc;
+}
+.H2heading {
+  background-color: black;
+  color: white;
+  font-weight: 300;
+  padding: 15px 0 15px 10px;
+  font-family: "Oswald", sans-serif;
+}
+.RPhoto1 {
+  height: 50px;
+  width: 50px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.RText1 {
+  padding-left: 20px;
+  padding-top: 15px;
+}
+.RText1 h2 {
+  font-family: "Open Sans", sans-serif;
+}
+.RText1 p {
+  font-family: "Open Sans", sans-serif;
+}
+#R3 {
+  margin-top: 20px;
+  height: 300px;
+  width: 100%;
+  background-color: #eff0e7;
+}
+#R31 {
+  height: 125px;
+  margin: 7px;
+  background-color: rgb(191, 206, 219);
+  text-align: center;
+  padding-top: 110px;
+  font-family: "Open Sans", sans-serif;
+}
+
+#R4 {
+  margin-top: 20px;
+  height: auto;
+  width: 100%;
+  background-color: rgb(244, 244, 239);
+}
+.tagrow {
+  display: flex;
+}
+#taglist {
+  background-color: white;
+}
+.taglist {
+  margin: 5px;
+  padding: 10px;
+  background-color: #d2d2cd;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+}
+.taglist1 {
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  font-weight: 540;
+}
+#R5 {
+  margin-top: 20px;
+  height: auto;
+  width: 100%;
+  /* background-color: yellow; */
+  background-color: rgb(244, 244, 239);
+}
+#imgBox {
+  /* padding: 10px; */
+}
+.Inspiration-img {
+  display: flex;
+  background-color: white;
+}
+.imgRow img {
+  display: flex;
+  height: 140px;
+  width: 190px;
+  margin: 15px;
+}
+.img-margin {
+  /* margin: 10px; */
+  /* padding: 15px; */
+}
+#R6 {
+  margin-top: 20px;
+  height: 110px;
+  width: 100%;
+  background-color: white;
+}
+#social {
+  height: 20px;
+  background-color: white;
+  padding-left: 17px;
+}
+#social .icon {
+  font-size: 25px;
+  /* margin: 10px 15px 10px 20px; */
+  margin: 12px 2px 12px 2px;
+}
+#R7 {
+  margin-top: 20px;
+  /* height: 220px; */
+  width: 100%;
+  background-color: white;
+}
+#Subscribe-p {
+  /* margin: 15px; */
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 19px;
+  font-family: "Open Sans", sans-serif;
+}
+#Subscribe-p input {
+  margin-left: 1px;
+  margin-top: 10px;
+  width: 170px;
+  padding-right: 250px;
+  padding-left: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+}
+#SubscribeBTN {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px 178px 10px 178px;
+  background-color: red;
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+}
+footer {
+  background-color: gray;
+}
+footer button {
+  margin: 25px;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+}
+footer p {
+  padding-left: 25px;
+  padding-bottom: 45px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+footer button {
+  font-family: "Open Sans", sans-serif;
+  padding: 10px 15px 10px 15px;
+}

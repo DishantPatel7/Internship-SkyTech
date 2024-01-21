@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  /* position: fix; */
+  background-color: #e44b4b;
+}
+.header {
+  box-shadow: 0 1px 10px 1px #655c5c;
+  display: flex;
+  height: 55px;
+  width: 100%;
+  position: absolute;
+  /* background-color: #fff; */
+  /* background-color: #923131; */
+}
+
+.left {
+  padding-left: 30px;
+  font-size: 17px;
+  padding-top: 15px;
+}
+.right {
+  padding-left: 1100px;
+  display: flex;
+  font-size: 17px;
+  padding-top: 10px;
+  /* justify-content: end; */
+}
+.about {
+  padding: 10px;
+}
+.menu {
+  padding: 10px;
+}
+.contact {
+  padding: 10px;
+}
+#div-img{
+  position: relative;
+  width: 100%;
+}
+.burger-image {
+  width: 100%;
+  height: auto;
+  position: absolute;
+}
+.burger-image img {
+  position: absolute;
+  width: 100%;
+}
+#div-img h1 {
+  font-size: 100px;
+  position: absolute;
+}
+.part2 {
+  display: flex;
+  margin: 20px;
+}
+.b11 {
+  text-align: center;
+}
+.image2 {
+  margin: 100px;
+  padding-left: 100px;
+  padding-top: 13px;
+  width: 600px;
+  height: 750px;
+  /* background-color: aqua; */
+}
+.content1 {
+  margin: 60px;
+  padding-top: 50px;
+  width: 500px;
+  height: 700px;
+  /* background-color: aqua; */
+}
+.b12 {
+  padding-top: 50px;
+  text-align: center;
+  font-size: medium;
+}
+
+#p1 {
+  text-align: center;
+  padding-top: 15px;
+}
+#gh {
+  text-align: center;
+  padding-top: 15px;
+}
+.part3 {
+  display: flex;
+  /* padding: 20px 20px 20px 20px; */
+  margin: 20px;
+  height: 710px;
+  width: 203vh;
+  /* background-color: antiquewhite; */
+}
+#b1 {
+  height: 650px;
+  width: 100vh;
+  padding-left: 70px;
+  margin: 20px;
+  /* background-color: aquamarine; */
+}
+#b1h1 {
+  text-align: center;
+  padding-top: 40px;
+}
+.b1h3 {
+  padding-top: 50px;
+  padding-left: 25px;
+}
+.b1h5 {
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+#b2 {
+  height: 650px;
+  width: 100vh;
+  padding-left: 50px;
+  padding-right: 70px;
+  margin: 20px;
+  /* background-color: aquamarine; */
+}
+#image3 {
+  height: 650px;
+  width: 70vh;
+}
+.part4 {
+  margin: 40px;
+  height: 710px;
+  width: 155vh;
+  background-color: antiquewhite;
+  padding: 120px;
+  /* padding-top: 50px; */
+}
+.p4 {
+  padding-top: 25px;
+}
+#p4h3 {
+  padding-top: 20px;
+  color: #607d8b;
+}
+.input {
+  margin: 5px;
+}
+
+footer {
+  height: 70px;
+  text-align: center;
+  padding-top: 45px;
+  /* padding-bottom: 10px; */
+  background-color: aliceblue;
+}

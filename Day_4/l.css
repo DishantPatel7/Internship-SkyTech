@@ -1,0 +1,162 @@
+@media only screen and (max-width: 821px) {
+  
+    #container9,
+    footer {
+      display: none;
+    }
+    #header {
+      padding: 0 0 0 200px;
+    }
+    #header #left {
+      display: none;
+    }
+    #header #right {
+      margin-left: 200px;
+    }
+    #header #right a,
+    i {
+      font-size: 11px;
+    }
+    #right li {
+      padding: 10px 0px 10px 15px;
+    }
+    #details #d2,
+    #d3,
+    #d4 {
+      display: none;
+    }
+    #details {
+      display: block;
+    }
+    #d1 h1 {
+      padding: 25px 0px;
+      text-align: center;
+    }
+    #navbar {
+      display: none;
+    }
+    #container1 img {
+      height: 600px;
+    }
+    #container1 #text h2 {
+      padding: 150px 0 0px 250px;
+    }
+    #container1 #text h1 {
+      padding: 181px 0px 0px 76px;
+    }
+    #container1 #text p {
+      padding: 275px 55px 0 55px;
+    }
+    #container1 button {
+      margin-top: 370px;
+      margin-left: 324px;
+    }
+    #container2 {
+      display: block;
+      margin: 0 62px;
+      /* height: 1200px; */
+    }
+    #container2 #bx {
+      display: block;
+    }
+    #container2 #bx1 {
+      width: 680px;
+      height: 182px;
+    }
+    #container2 #bx2 {
+      width: 680px;
+      height: 182px;
+    }
+    #container2 #bx3 {
+      width: 680px;
+      height: 182px;
+    }
+    #container2 #bx4 {
+      width: 680px;
+      height: 200px;
+      margin-left: 0;
+    }
+    #container3 {
+      top: -95px;
+      height: 540px;
+      padding-top: 750px;
+    }
+    #container3 #main {
+      display: block;
+    }
+    #container3 #main #c2 #p1 {
+      padding: 0 15px 0 15px;
+    }
+    #container3 #main #c2 #p2 {
+      padding: 0 15px 35px 15px;
+    }
+    #container4 {
+      display: block;
+      top: -95px;
+      /* height: 200vh; */
+    }
+    #container4 #leftcont4 {
+      padding: 0px 9%;
+    }
+    #container4 #rightcont4 {
+      margin-top: -120px;
+    }
+    #container4 #rightcont4 p {
+      padding: 0 65px;
+    }
+    #container4 #rightcont4 #r-div {
+      margin: 20px 74px;
+    }
+    #container4 #rightcont4 #r-div #p2 img {
+      top: -68px;
+      padding-left: 85px;
+    }
+    #container5 #upper {
+      margin: 0 40px;
+    }
+    #container5 #upper p {
+      padding: 0 55px;
+    }
+    #container5 #lower .lowR1 {
+      display: block;
+    }
+    #container5 #lower .lowR1 .item {
+      /* background-color: rgb(235, 187, 187); */
+      width: 682px;
+      height: 565px;
+    }
+    #container5 #lower .lowR1 .item img {
+      width: 400px;
+      height: 400px;
+    }
+    #container5 #lower .lowR1 .item .addtocart {
+      margin: 5px 200px;
+    }
+    #container6 img{
+      width: 820px;
+    }
+    #container7 {
+      display:block;
+      padding: 40px 45px 300px 45px;
+      /* width: 100%; */
+    }
+    #container7 #rightbox {
+      margin-left: 0;
+      padding: 40px 0px;
+    }
+    #container7 #rightbox .row #box {
+      height: 300px;
+      width: 300px;
+      padding: 20px;
+    }
+    #container8{
+      display: none;
+    }
+    #container8 #cont8main{
+      display: block;
+    }
+    #container8 #left{
+      display: none;
+    }
+  }
+  
